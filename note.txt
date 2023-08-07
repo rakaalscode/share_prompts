@@ -1,0 +1,6 @@
+NESTED ROUTES
+posts
+posts/create 
+
+DYNAMIC ROUTES
+posts/:postId
