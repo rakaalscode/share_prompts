@@ -4,3 +4,5 @@ posts/create
 
 DYNAMIC ROUTES
 posts/:postId
+
+
